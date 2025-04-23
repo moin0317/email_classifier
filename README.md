@@ -19,3 +19,8 @@ email_classifier_project/
 ├── Dockerfile 
 └── classifier_model/ 
     └── email_classifier.pkl
+
+ 
+ The trained model file email_classifier.pkl (≈ 100MB) is excluded from this repository.
+It’s deployed directly on Hugging Face Space.
+
